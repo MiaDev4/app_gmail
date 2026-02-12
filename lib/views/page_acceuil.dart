@@ -20,9 +20,7 @@ class PageAcceuil extends StatelessWidget {
                   ),
                   child: Row(
                     children: [
-                      Image.asset("assets/images/logo-gmail.jpg",
-                      width: 24,
-                      ),
+                      Image.asset("assets/images/logo-gmail.jpg", width: 24),
                       Text("Gmail", style: TextStyle(color: Colors.white)),
                     ],
                   ),
